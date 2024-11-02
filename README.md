@@ -1,8 +1,7 @@
-# ShareSafely - File Share Web App (Implement and manage storage
+# ShareSafely - File Share Web App (Implement and manage storage)
 
-Create a web application where users can securely upload files to Azure Blob Storage. Once uploaded, the application generates a unique, time-limited link for the user to share. This ensures that only authorized users with the link can access the uploaded file for a specified duration.
+This is a web application that allows users to securely upload files to Azure Blob Storage. Once uploaded, the application generates a unique, time-limited link for the User to share. This ensures that only authorized users with the link can access the uploaded file for a specified duration.
 
-- **Programming required?**: ✅ (For creating the web application and generating unique time-limited links.)
   
 - **Azure Services Used:**
   - Azure Blob Storage
